@@ -1,0 +1,6 @@
+node_modules/.bin/nanoid
+node_modules/.bin/nanoid.cmd
+node_modules/vite/types/metadata.d.ts
+/node_modules
+/dist
+.env.local
