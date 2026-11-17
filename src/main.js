@@ -1,3 +1,4 @@
+import "./styles/output.css";
 import { renderRoute, startRouter } from "./router.js";
 
 function Main() {
