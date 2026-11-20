@@ -1,0 +1,4 @@
+| Date     | AI used | Description                                                                                                                                                                                        |
+| -------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 18.11.26 | chatGPT | I made a document with the issues for github projects I had in mind, and listed what needed to be done. Used AI to make the issues into lists and used them for inspiration for the actual issues. |
+| 20.11.26 | chatGPT | I wrote the user flow and used the AI to make it more structured and use better English.                                                                                                           |
