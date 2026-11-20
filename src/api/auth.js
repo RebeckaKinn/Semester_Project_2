@@ -50,6 +50,6 @@ export function getCurrentLogInCredentials() {
   return {
     accessToken: localStorage.getItem("accessToken"),
     userName: localStorage.getItem("userName"),
-    userName: localStorage.getItem("credits"),
+    credits: localStorage.getItem("credits"),
   };
 }
