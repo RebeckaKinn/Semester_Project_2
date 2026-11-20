@@ -1,3 +1,4 @@
-| Date | What is it used for | Description |
-| ---- | ------------------- | ----------- |
-|      |                     |             |
+| Date     | What is it used for                     | Description                                                                                                                                                                                                                                                                                                  |
+| -------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 20.11.26 | API request helper in src/api/client.js | Took inspiration form the reusable API request helper I made in the JS2 assignment to see if it works as a starter to test the requests.                                                                                                                                                                     |
+| 20.11.26 | API endpoints                           | I used the Noroff v2 Documents Auction House to get the correct API endpoints for the required data handeling. I took some inspiration from my JS2 assignment, but I will surely have to change them along the way. I did this to have a starting point and to easily have access to the required endpoints. |
