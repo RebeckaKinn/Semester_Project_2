@@ -12,6 +12,7 @@
     "tailwind:build": "npx @tailwindcss/cli -i ./src/styles/input.css -o ./src/styles/output.css --minify"
   },
   "devDependencies": {
+    "jsdom": "^31.0.1",
     "vite": "^8.3.8",
     "vitest": "^5.1.1"
   },
